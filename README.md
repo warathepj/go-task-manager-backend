@@ -29,6 +29,20 @@ A full-stack task management application built with React (frontend) and Go (bac
 - Go 1.21.4 or later
 - MongoDB
 
+## Code
+
+### Backend
+
+```bash
+git clone https://github.com/warathepj/go-task-manager-backend.git
+```
+
+### Frontend
+
+```bash
+git clone https://github.com/warathepj/go-task-manager-frontend.git
+```
+
 ## Getting Started
 
 ### Backend Setup
