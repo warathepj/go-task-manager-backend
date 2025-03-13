@@ -50,7 +50,7 @@ git clone https://github.com/warathepj/go-task-manager-frontend.git
 1. Navigate to the backend directory:
 
 ```bash
-cd backend
+cd go-task-manager-backend
 ```
 
 2. Install Go dependencies:
@@ -72,7 +72,7 @@ The server will start on `http://localhost:8000`
 1. Navigate to the frontend directory:
 
 ```bash
-cd task-manager
+cd go-task-manager-frontend
 ```
 
 2. Install dependencies:
